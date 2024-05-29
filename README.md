@@ -1,7 +1,15 @@
-### Hi there 👋
+## Hey, I'm Aahil! 👋
 
-I'm a first year Computer Science student studying at Northeastern University.
-- he/him
+### About Me
+- 🎓 CS Honors Student @ Northeastern University
 - 📍 Boston & CT
+- 🛠 Passionate Developer
+- 🤖 Robotics Lover
 
-Stay tuned for more updates. 
+### Skills
+- **Languages**: Java, TypeScript/JavaScript, HTML/CSS, SQL, C++
+- **Frameworks**: Next.js, React, Tailwind, Bootstrap
+
+### Connect With Me: 
+- GitHub: [github.com/aahiltn](github.com/aahiltn) (You're already here!)
+- LinkedIn: [linkedin.com/in/aahil-nishad](linkedin.com/in/aahil-nishad)
