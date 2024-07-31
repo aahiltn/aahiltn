@@ -4,11 +4,10 @@
 - 🎓 CS Honors Student @ Northeastern University
 - 📍 Boston & CT
 - 🛠 Passionate Developer
-- 🤖 Robotics Lover
 
 ### Skills
 - **Languages**: Java, TypeScript/JavaScript, HTML/CSS, SQL, C++
-- **Frameworks**: Next.js, React, Tailwind, Bootstrap
+- **Frameworks**: Next.js, React, React Native, Tailwind, Bootstrap
 
 ### Connect With Me: 
 - GitHub: [github.com/aahiltn](github.com/aahiltn) (You're already here!)
