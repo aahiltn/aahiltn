@@ -10,6 +10,6 @@
 - **Frameworks**: Next.js, React, React Native, Tailwind, Bootstrap
 
 ### Connect With Me: 
-- Portfolio: [aahilnishad.me](aahilnishad.me)
-- GitHub: [github.com/aahiltn](github.com/aahiltn) (You're already here!)
-- LinkedIn: [linkedin.com/in/aahil-nishad](linkedin.com/in/aahil-nishad)
+- Portfolio: [aahilnishad.me](https://www.aahilnishad.me/)
+- GitHub: [github.com/aahiltn](https://www.github.com/aahiltn) (You're already here!)
+- LinkedIn: [linkedin.com/in/aahil-nishad](https://www.linkedin.com/in/aahil-nishad)
