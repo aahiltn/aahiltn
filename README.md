@@ -6,8 +6,8 @@
 - 🛠 Passionate Developer
 
 ### Skills
-- **Languages**: Java, TypeScript/JavaScript, HTML/CSS, Python, SQL, C++
-- **Frameworks**: Next.js, Astro, React, React Native, Tailwind, Bootstrap
+- **Languages**: Java, TypeScript/JavaScript, HTML/CSS, Golang, Python, SQL, C++
+- **Frameworks**: Next.js, Astro, React, React Native, Tailwind, Node.js, Bootstrap
 
 ### Connect With Me: 
 - Portfolio: [aahilnishad.me](https://www.aahilnishad.me/)
