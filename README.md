@@ -1,15 +1,20 @@
-## Hey, I'm Aahil! 👋
-
-### About Me
-- 🎓 CS Honors Student @ Northeastern University
+# hey i'm aahil :)
+- 🎓 Honors CS @ Northeastern University
+- <img width="16" alt="klaviyo" src="https://github.com/user-attachments/assets/f30b0561-1c0d-440c-b1fc-6f61decf8b23" /> Full-Stack Software Engineer Co-op @ Klaviyo
+- <img width="16" alt="generate" src="https://github.com/user-attachments/assets/90d6314c-93ea-4169-9b03-a1e400d5af36" /> TL @ Generate
 - 📍 Boston & CT
-- 🛠 Passionate Developer
+- swag
 
-### Skills
-- **Languages**: Java, TypeScript/JavaScript, HTML/CSS, Golang, Python, SQL, C++
-- **Frameworks**: Next.js, Astro, React, React Native, Tailwind, Node.js, Bootstrap
+## skills (still growing)
+**Languages**: Python, TypeScript, Go, Java, JavaScript, C, C++
 
-### Connect With Me: 
+**Frontend**: React, React Native, Next.js, Astro, Vue, Bun Runtime, Tailwind, TanStack Query, Framer Motion
+
+**Backend**: PostgreSQL, MySQL, MongoDB, Drizzle, SQLAlchemy, GoFiber, Express, FastAPI, Flask, OpenAPI
+
+**DevOps** & Infrastructure: AWS, Azure, OCI, Docker, Supabase, Git, Terraform, CI/CD, Doppler, Linux
+
+## reach out: 
 - Portfolio: [aahilnishad.me](https://www.aahilnishad.me/)
-- GitHub: [github.com/aahiltn](https://www.github.com/aahiltn) (You're already here!)
 - LinkedIn: [linkedin.com/in/aahil-nishad](https://www.linkedin.com/in/aahil-nishad)
+- GitHub: [github.com/aahiltn](https://www.github.com/aahiltn) (You're already here!)
