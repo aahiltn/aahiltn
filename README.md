@@ -1,6 +1,6 @@
 # hey i'm aahil :)
-- 🎓 Honors CS @ Northeastern University
 - <img width="16" alt="klaviyo" src="https://github.com/user-attachments/assets/f30b0561-1c0d-440c-b1fc-6f61decf8b23" /> Software Engineer Co-op, Mobile App Growth @ Klaviyo
+- 🎓 Honors CS @ Northeastern University
 - <img width="16" alt="generate" src="https://github.com/user-attachments/assets/90d6314c-93ea-4169-9b03-a1e400d5af36" /> TL @ Generate
 - 📍 Boston & CT
 - swag
